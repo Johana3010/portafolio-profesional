@@ -438,15 +438,15 @@ footer {
 
 @media screen and (max-width: 800px) {
   .testimonio-imagen {
-    height: 120px;
-    width: 120px;
+    height: 100px;
+    width: 100px;
   }
 
   .testimonio-texto {
     font-size: 18px;
   }
   .carousel-item .container {
-    padding: 40px 0px 0px 0px;
+    padding: 20px 0px 0px 0px;
     width: 100%;
     height: 525px;
     display: flex;
